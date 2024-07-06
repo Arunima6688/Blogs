@@ -3,6 +3,7 @@ import { RouterOutlet } from '@angular/router';
 import 'bootstrap/dist/js/bootstrap.bundle';
 
 
+
 @Component({
   selector: 'app-root',
   standalone: true,
